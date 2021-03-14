@@ -1,7 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PracticeJava:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe254de0-3216-46a8-8e67-df9e0815a0d5" name="Default Changelist" comment="" />
+    <list default="true" id="fe254de0-3216-46a8-8e67-df9e0815a0d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PracticeJava_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/BalancedExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/StackInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/analysis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/analysis/SumIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1Practice/Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/Challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/src/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/src/MyCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/SqlVideoDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/VideoDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/VideoEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/VideoProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mytube/XVideoEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/ZeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/ArrayBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/BagInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/BagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/LinkedBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class1/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class1/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/inheritance/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/inheritance/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/inheritance/UIControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/AbstractTaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/Draggable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/Dragger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/TaxCalculator2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/TaxCalculator2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/TaxReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/interfaces/UIWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/mortgageCalculator/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/mortgageCalculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/mortgageCalculator/MortGageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/practiceWithMosh/class2/mortgageCalculator/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/Rec1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/AccountApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/BankAccountApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/BuildingApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/CDAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/IRate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/LoanAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/inheritance/AnytownTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/OOP/inheritance/AnytownTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/inheritance/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/OOP/inheritance/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/inheritance/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/OOP/inheritance/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/inheritance/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/OOP/inheritance/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/pet/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/OOP/pet/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/pet/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/OOP/pet/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/pet/PetApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/OOP/pet/PetApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/OOP/pet/PetBP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/OOP/pet/PetBP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/AccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankApp/AccountApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankApp/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankApp/BankAccountApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankApp/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/BuildingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankApp/BuildingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/CDAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankApp/CDAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/IRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankApp/IRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/LoanAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/bankApp/LoanAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/inheritance/AnytownTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/AnytownTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/inheritance/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/inheritance/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/inheritance/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/pet/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pet/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/pet/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pet/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/pet/PetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pet/PetApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/pet/PetBP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pet/PetBP.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,22 +123,54 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1oJ13k1aIpkYlUoyRohz75tiens" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="AccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.AccountApp" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LinkedList" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="OOP.practiceWithMosh.Class2.MortGageCalculator" />
+      <recent name="OOP.practiceWithMosh.Class2.Report" />
+      <recent name="OOP.practiceWithMosh.Class2.Console" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="OOP.practiceWithMosh.Class2" />
+      <recent name="OOP.practiceWithMosh.Class2.Console" />
+      <recent name="OOP.practiceWithMosh.Class1.Class2.Console" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.mytube" />
+      <recent name="oop.practiceWithMosh.class2.interfaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\verej\OneDrive\Desktop\JavaApplications\PracticeJava\src" />
+      <recent name="C:\Users\verej\OneDrive\Desktop\JavaApplications\PracticeJava\src\Recursion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BalancedExpression">
+    <configuration name="BagTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.BagTest" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.BankAccountApp" />
+    <configuration name="BalancedExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.BalancedExpression" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.BankAccountApp" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.practiceWithMosh.Class2.Main" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.*" />
+          <option name="PATTERN" value="OOP.practiceWithMosh.Class2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.HelloWorld" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.practiceWithMosh.Class2.Inheritance.Main" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.*" />
+          <option name="PATTERN" value="OOP.practiceWithMosh.Class2.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +217,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDatabaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.StudentDatabaseApp" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="analysis.Main" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.*" />
+          <option name="PATTERN" value="analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.MyNode" />
+      <module name="PracticeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment1Practice.Part1" />
+      <module name="PracticeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment1Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Stack" />
+      <module name="PracticeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.StudentDatabaseApp" />
-        <item itemvalue="Application.BankAccountApp (1)" />
-        <item itemvalue="Application.AccountApp" />
-        <item itemvalue="Application.BankAccountApp" />
+        <item itemvalue="Application.BalancedExpression" />
+        <item itemvalue="Application.Stack" />
+        <item itemvalue="Application.BagTest" />
+        <item itemvalue="Application.MyNode" />
+        <item itemvalue="Application.Part1" />
       </list>
     </recent_temporary>
   </component>
@@ -123,68 +292,133 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-2666" y="91" key="#com.intellij.ide.util.MemberChooser" timestamp="1613158747579">
-      <screen x="-3000" y="0" width="1080" height="1880" />
+    <state x="-1879" y="0" key="#Notifications" timestamp="1613387603577">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-2971" y="515" key="#Notifications/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613254565677" />
+    <state x="-1879" y="0" key="#Notifications/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613387603577" />
+    <state x="-2971" y="515" key="#Notifications/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166281400" />
+    <state x="-1445" y="40" key="#com.intellij.ide.util.MemberChooser" timestamp="1615754471053">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
     <state x="-2666" y="91" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613151175016" />
-    <state x="-1445" y="40" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613143997163" />
+    <state x="-1445" y="40" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615754471053" />
     <state x="-2666" y="91" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613158747579" />
+    <state x="-1605" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614036066577">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1605" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1614036066577" />
+    <state x="-1409" y="275" width="616" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615434393574">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1409" y="275" width="616" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615434393574" />
+    <state x="-1453" y="51" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1615436693682">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1453" y="51" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615436693682" />
+    <state x="-1454" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615655268902">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1454" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615655268902" />
+    <state x="-1536" y="183" key="FileChooserDialogImpl" timestamp="1614036347603">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1536" y="183" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1614036347603" />
+    <state x="-2730" y="637" key="FileChooserDialogImpl/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166515437" />
     <state x="-2679" y="835" width="462" height="212" key="Github.CreateGistDialog" timestamp="1613164225737">
       <screen x="-3000" y="0" width="1080" height="1880" />
     </state>
     <state x="-2679" y="835" width="462" height="212" key="Github.CreateGistDialog/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613164225737" />
-    <state width="1524" height="817" key="GridCell.Tab.0.bottom" timestamp="1613165362465">
-      <screen x="-3000" y="0" width="1080" height="1880" />
-    </state>
-    <state width="1510" height="746" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613151210551" />
-    <state width="418" height="666" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613144571363" />
-    <state width="1524" height="817" key="GridCell.Tab.0.bottom/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613165362465" />
-    <state width="1524" height="817" key="GridCell.Tab.0.center" timestamp="1613165362465">
-      <screen x="-3000" y="0" width="1080" height="1880" />
-    </state>
-    <state width="1510" height="746" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613151210551" />
-    <state width="418" height="666" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613144571363" />
-    <state width="1524" height="817" key="GridCell.Tab.0.center/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613165362465" />
-    <state width="1524" height="817" key="GridCell.Tab.0.left" timestamp="1613165362465">
-      <screen x="-3000" y="0" width="1080" height="1880" />
-    </state>
-    <state width="1510" height="746" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613151210551" />
-    <state width="418" height="666" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613144571363" />
-    <state width="1524" height="817" key="GridCell.Tab.0.left/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613165362465" />
-    <state width="1524" height="817" key="GridCell.Tab.0.right" timestamp="1613165362465">
-      <screen x="-3000" y="0" width="1080" height="1880" />
-    </state>
-    <state width="1510" height="746" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613151210551" />
-    <state width="418" height="666" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613144571363" />
-    <state width="1524" height="817" key="GridCell.Tab.0.right/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613165362465" />
-    <state width="1020" height="664" key="GridCell.Tab.1.bottom" timestamp="1613159204838">
-      <screen x="-3000" y="0" width="1080" height="1880" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613080286699" />
-    <state width="1020" height="664" key="GridCell.Tab.1.bottom/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613159204838" />
-    <state width="1020" height="664" key="GridCell.Tab.1.center" timestamp="1613159204838">
-      <screen x="-3000" y="0" width="1080" height="1880" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613080286698" />
-    <state width="1020" height="664" key="GridCell.Tab.1.center/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613159204838" />
-    <state width="1020" height="664" key="GridCell.Tab.1.left" timestamp="1613159204838">
-      <screen x="-3000" y="0" width="1080" height="1880" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613080286698" />
-    <state width="1020" height="664" key="GridCell.Tab.1.left/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613159204838" />
-    <state width="1020" height="664" key="GridCell.Tab.1.right" timestamp="1613159204838">
-      <screen x="-3000" y="0" width="1080" height="1880" />
-    </state>
-    <state width="1481" height="245" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613080286698" />
-    <state width="1020" height="664" key="GridCell.Tab.1.right/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613159204838" />
-    <state x="-1541" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1613129336984">
+    <state width="1481" height="244" key="GridCell.Tab.0.bottom" timestamp="1615760082503">
       <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state x="-1541" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613129336984" />
-    <state x="-1573" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1613136812717">
+    <state width="1008" height="663" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-1920.0.1536.824" timestamp="1613256304514" />
+    <state width="796" height="372" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613255887510" />
+    <state width="1481" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615760082503" />
+    <state width="1020" height="664" key="GridCell.Tab.0.bottom/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166588785" />
+    <state width="1481" height="244" key="GridCell.Tab.0.center" timestamp="1615760082503">
       <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state x="-1573" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1613136812717" />
+    <state width="1008" height="663" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-1920.0.1536.824" timestamp="1613256304513" />
+    <state width="796" height="372" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613255887508" />
+    <state width="1481" height="244" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615760082503" />
+    <state width="1020" height="664" key="GridCell.Tab.0.center/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166588784" />
+    <state width="1481" height="244" key="GridCell.Tab.0.left" timestamp="1615760082503">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1008" height="663" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-1920.0.1536.824" timestamp="1613256304513" />
+    <state width="796" height="372" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613255887508" />
+    <state width="1481" height="244" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615760082503" />
+    <state width="1020" height="664" key="GridCell.Tab.0.left/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166588784" />
+    <state width="1481" height="244" key="GridCell.Tab.0.right" timestamp="1615760082503">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1008" height="663" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-1920.0.1536.824" timestamp="1613256304514" />
+    <state width="796" height="372" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613255887509" />
+    <state width="1481" height="244" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615760082503" />
+    <state width="1020" height="664" key="GridCell.Tab.0.right/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166588785" />
+    <state width="1481" height="244" key="GridCell.Tab.1.bottom" timestamp="1615760082503">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1008" height="663" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-1920.0.1536.824" timestamp="1613256304515" />
+    <state width="1008" height="663" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613254572822" />
+    <state width="1481" height="244" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615760082503" />
+    <state width="1020" height="664" key="GridCell.Tab.1.bottom/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166588785" />
+    <state width="1481" height="244" key="GridCell.Tab.1.center" timestamp="1615760082503">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1008" height="663" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-1920.0.1536.824" timestamp="1613256304514" />
+    <state width="1008" height="663" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613254572821" />
+    <state width="1481" height="244" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615760082503" />
+    <state width="1020" height="664" key="GridCell.Tab.1.center/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166588785" />
+    <state width="1481" height="244" key="GridCell.Tab.1.left" timestamp="1615760082503">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1008" height="663" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-1920.0.1536.824" timestamp="1613256304514" />
+    <state width="1008" height="663" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613254572821" />
+    <state width="1481" height="244" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615760082503" />
+    <state width="1020" height="664" key="GridCell.Tab.1.left/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166588785" />
+    <state width="1481" height="244" key="GridCell.Tab.1.right" timestamp="1615760082503">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1008" height="663" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-1920.0.1536.824" timestamp="1613256304515" />
+    <state width="1008" height="663" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613254572821" />
+    <state width="1481" height="244" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615760082503" />
+    <state width="1020" height="664" key="GridCell.Tab.1.right/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166588785" />
+    <state x="-1378" y="338" key="ReplaceDuplicatesPrompt" timestamp="1615436937509">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1378" y="338" key="ReplaceDuplicatesPrompt/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615436937509" />
+    <state x="-1920" y="0" key="SettingsEditor" timestamp="1614036612077">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1920" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1614036612077" />
+    <state x="-3000" y="496" key="SettingsEditor/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166586066" />
+    <state x="-1541" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1615648350084">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-2734" y="443" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1536.824/-3000.0.1080.1880@-3000.0.1080.1880" timestamp="1613253573350" />
+    <state x="-1541" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615648350084" />
+    <state x="-2734" y="443" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-3000.0.1080.1880/-1920.0.1536.824@-3000.0.1080.1880" timestamp="1613166915817" />
+    <state x="-1397" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615653473482">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1397" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615653473482" />
+    <state x="-1484" y="109" width="663" height="618" key="extract.method.dialog" timestamp="1615654936065">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1484" y="109" width="663" height="618" key="extract.method.dialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615654936065" />
+    <state x="-1469" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1615436115084">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1469" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615436115084" />
+    <state x="-1573" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1615754031595">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1573" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1615754031595" />
   </component>
 </project>
